@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi 👋 I’m Trang
 
-<!--
-**trangtrieu-code/trangtrieu-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Full-Stack Developer** in Quebec, Canada with a background in **International Business**.
 
-Here are some ideas to get you started:
+I’m building my fundamentals from the ground up and focusing on **how and why code works**. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tech stack is javascript, react and tailwind/bootstrap. I would love to master Typescript in the near future!
+
+I have many projects, but my favorite one so far is Dotlity.
+
+I care about:
+- clean, understandable code  
+- finishing projects end-to-end  
+- finding and fixing bugs
+
+Actively improving my **technical French** for the Quebec job market.
+
+⚡ **Fun Facts**:
+- I don't like crunchy food
+- I cook while well. XD
+- Hobbies: anime, co-op video games, have random application ideas and try to build them
