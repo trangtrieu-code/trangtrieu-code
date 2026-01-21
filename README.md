@@ -17,5 +17,5 @@ Actively improving my **technical French** for the Quebec job market.
 
 ⚡ **Fun Facts**:
 - I don't like crunchy food
-- I cook while well. XD
+- I cook quite well. XD
 - Hobbies: anime, co-op video games, have random application ideas and try to build them
