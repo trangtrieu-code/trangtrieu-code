@@ -17,5 +17,5 @@ Actively improving my **technical French** for the Quebec job market.
 
 ⚡ **Fun Facts**:
 - I don't like crunchy food
-- I can't swim, but love sea and ocean animal, so I compromised and visit aquariums alot. XD
+- I love visiting aquariums.
 - Hobbies: anime, co-op video games, have random application ideas and try to build them
