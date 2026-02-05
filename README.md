@@ -6,7 +6,7 @@ I’m building my fundamentals from the ground up and focusing on **how and why 
 
 My main tech stack is javascript, react and tailwind/bootstrap. I will master Typescript in the near future!
 
-I have many projects, but my favorite one so far is Dotlity.
+I have many projects, but my favorite one so far is [Dotlity](https://dotlity.netlify.app/).
 
 I care about:
 - clean, understandable code  
