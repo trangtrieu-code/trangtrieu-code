@@ -13,8 +13,6 @@ I care about:
 - finishing projects end-to-end  
 - finding and fixing bugs
 
-Actively improving my **technical French** for the Quebec job market.
-
 ⚡ **Fun Facts**:
 - I don't like crunchy food
 - I love visiting aquariums.
